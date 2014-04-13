@@ -1,0 +1,1 @@
+Location-Tracker is an Android App that will start a service wich will send location data to a server using HTTP requests via POST method.
