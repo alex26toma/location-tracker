@@ -74,11 +74,11 @@ public class LocationTracker extends Activity {
 			noError = false;
 		}
 		if(time <= 0) {
-			error.append("\nThe Time Lapse must be greater then 0");
+			error.append("\nThe Time Lapse must be greater than 0");
 			noError = false;
 		}
 		if(dist <=0) {
-			error.append("\nThe Min Distance must be greater then 0");
+			error.append("\nThe Min Distance must be greater than 0");
 			noError = false;
 		}
 		if(key.isEmpty()) {
